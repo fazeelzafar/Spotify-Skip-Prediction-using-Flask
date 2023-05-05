@@ -1,4 +1,4 @@
-Spotify Skip Prediction using Flask
+Spotify Skip Prediction App made using Flask
 
 This was my final internship project. This app basically predicts whether or not a user will skip a song based on their usage data
 RandomForestClassifier was used to train the model that was deployed.
